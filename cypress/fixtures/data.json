@@ -1,0 +1,13 @@
+{
+  "homePage": {
+    "navMenuList": [
+      "Products",
+      "Use Cases",
+      "Blog",
+      "About"
+    ]
+  },
+  "aboutEximpePage":{
+    "url":"https://eximpe.com/about-eximpe/"
+  }
+}
